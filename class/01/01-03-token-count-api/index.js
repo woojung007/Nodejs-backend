@@ -1,5 +1,4 @@
 // 핸드폰 토큰 생성하는 API
-
 function createTokenOfPhone(phone) {
   // 1. 핸드폰 번호 자릿수 맞는지 확인하기
   if (phone.length !== 10 && phone.length !== 11) {

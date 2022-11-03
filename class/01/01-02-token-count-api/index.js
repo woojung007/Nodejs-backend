@@ -1,5 +1,3 @@
-// console.log("안녕하세요~~~~");
-
 function getToken(count) {
   // undefined - 원래 비워져 있는 것
   // null - 일부러 비워둔 것

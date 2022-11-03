@@ -1,6 +1,5 @@
 // module 방식
 import { checkValidationPhone, getToken, sendTokenToSNS } from "./phone";
-
 // commonjs 방식
 // const {checkValidationPhone} = require('./phone')
 
